@@ -6,7 +6,7 @@ History
 v0.26 (unreleased)
 ..................
 * fix to schema generation for ``IPvAnyAddress``, ``IPvAnyInterface``, ``IPvAnyNetwork`` #498 by @pilosus
-* add ``Color`` type, #504 by @pilosus
+* add ``Color`` type, #504 by @pilosus and @samuelcolvin
 
 v0.25 (2019-05-05)
 ..................
